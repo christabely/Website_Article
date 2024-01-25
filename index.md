@@ -8,11 +8,9 @@ The project stems from a personal quest to address the challenges women face in 
 This blog post delves into the challenges, solutions, technical debt, and accomplishments encountered during the development of the deployed page and landing page.
 
 ## Team Members, Roles, and Timeline
-Christabel Aidoo – An Aspiring Developer and Backend Specialist.
-- [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
-
-Phillipa Aidoo – An Aspiring Frontend Developer and a Cyber Security Expert.
-- [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo)
+- [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo) – An Aspiring Developer and Backend Specialist.
+ 
+- [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo) - – An Aspiring Frontend Developer and a Cyber Security Expert.
 
 Timeline: Ongoing development with continuous improvements.
 
@@ -32,20 +30,19 @@ Cassintimates isn't just a business venture; it's a reflection of my deep passio
 
 **Meet My Partner:**
 
-In this journey, I'm fortunate to have a partner who shares the same passion and vision. She brings a unique blend of skills, being a journalist, a model, and an aspiring Specialized Frontend Developer. Together, we understand the profound impact of e-commerce and the significance of women feeling not just adequate but beautiful in their own skin, irrespective of their curves and shapes. Working alongside her has been a pleasure, adding diverse perspectives to Cassintimates.
-- [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo)
+In this journey, I'm fortunate to have a partner - [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo) who shares the same passion and vision. She brings a unique blend of skills, being a journalist, a model, and an aspiring Specialized Frontend Developer. Together, we understand the profound impact of e-commerce and the significance of women feeling not just adequate but beautiful in their own skin, irrespective of their curves and shapes. Working alongside her has been a pleasure, adding diverse perspectives to Cassintimates.
+
 
 ## Author's Personal Summary
 
-I am Christabel Aidoo. My motivation spans from the quest to being a better version of myself, a purposeful woman and a positive influnce to others.
-Leveraging my legal background with a graduate degree in Legal Studies and possession of in-depth legal knowledge in diverse fields, and having garnered multiple expertise and skills through various roles and positions held, I am  competent, adaptable and able to bring multiple skills and knowledge to the table.
+I am - [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo) My motivation stems from the quest to being a better version of myself, a purposeful human and a positive influnce to others.
+Leveraging my legal background with a graduate degree in Legal Studies and possession of in-depth legal knowledge in diverse fields, and having garnered multiple expertise and skills through various roles and positions held, I am  competent, adaptable and bring multiple skills and knowledge to the table.
 I am also a skilled writer and communicator. I excel in negotiation, calmly diffusing tense situations, persuading team members and clients strategically and proficient in problem-solving.
 I thrive both collaboratively and independently.
 My expertise extends to programming languages such as C, Python, Html, JavaScript, CSS and to tools like Word, Excel, PowerPoint, and other software and hardware.
-I am currently nearing completion undertaking a software engineering course with ALX and poised to specialize in Backend development.
-I am a detail-oriented professional driven by passion, excellence and open to continual learning.
-I am committed to utilizing my skills and knowledge for solve challenges and make the world less stressful.
-My LinkedIn profile: - [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo)
+I am currently nearing completion in the ALX Software Engineering Program and poised to specializing in Backend development.
+I am a detail-oriented, professional, driven by passion to excell and open to continual learning.
+I am committed to utilizing every skill and knowledge acquired to solve challenges that confront our daily lives and make living less stressful.
 
 **Cassintimates Essence:**
 
