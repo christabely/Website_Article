@@ -31,7 +31,7 @@ Cassintimates E-Commerce emerged as the answer to a universal struggle, where wo
 
 Cassintimates isn't just a business venture; it's a reflection of my deep passion for beauty, confidence, and sensuality. I believe in embracing beauty and feeling confident, even in the most serious and professional aspects of life. This personal philosophy is woven into the fabric of Cassintimates. The project is an extension of my commitment to empowering individuals to embrace their beauty and confidence.
 
-**Meet My Partner:**
+## Meet My Partner
 
 ![6c69e7d9-5a8a-4b0d-a986-f30b93416ab4](https://github.com/christabely/Cassintimates_blog/assets/129256391/6d6fcea9-fee9-4cf0-a3a8-828047bce374)
 
