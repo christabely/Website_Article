@@ -4,7 +4,7 @@ Cassintimates E-Commerce is a transformative project founded by Christabel Aidoo
 ## THE TEAM
 - [Christabel Aidoo](https://www.linkedin.com/in/christabel-aidoo) – An Aspiring Developer and Backend Specialist.
  
-- [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo) - – An Aspiring Frontend Developer and a Cyber Security Expert.
+- [Phillipa Aidoo](https://www.linkedin.com/in/phillipananaaidoo) - An Aspiring Frontend Developer and a Cyber Security Expert.
 
 ## MY PERSONAL SUMMARY 
 
